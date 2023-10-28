@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@react-native-async-storage/async-storage": "^1.19.3",
-    "@supabase/supabase-js": "^2.38.2",
+    "@supabase/supabase-js": "^2.38.4",
     "expo": "~49.0.13",
     "expo-splash-screen": "~0.20.5",
     "expo-status-bar": "~1.6.0",
@@ -22,6 +22,7 @@
   "devDependencies": {
     "@babel/core": "^7.20.0",
     "@types/react": "~18.2.14",
+    "react-native-dotenv": "^3.4.9",
     "supabase": "^1.106.1",
     "typescript": "^5.1.3"
   },
